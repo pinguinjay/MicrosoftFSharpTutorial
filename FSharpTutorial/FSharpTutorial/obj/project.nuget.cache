@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0WkpKm0noMkKwBNX0UiXzTxP4AKBWzIgxXkUL1/qJBgUUMeUdZRLSY+pWmeQQ29zy8LjEl0PEAzZSk2Y8yG3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\FSharpTutorial\\FSharpTutorial\\FSharpTutorial.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
